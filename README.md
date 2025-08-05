@@ -37,26 +37,6 @@ The project uses the **Heart Disease Dataset** from the UCI Machine Learning Rep
 ## Project Structure
 
 
---Heart_Disease_Project/
---│── data/
---│ └── heart_disease.csv # Dataset file
---│── notebooks/
---│ ├── 01_data_preprocessing.ipynb # Cleaning & preprocessing
---│ ├── 02_pca_analysis.ipynb # PCA analysis
---│ ├── 03_feature_selection.ipynb # Feature selection with RFE
---│ ├── 04_supervised_learning.ipynb# Training supervised models
---│ ├── 05_unsupervised_learning.ipynb # KMeans clustering
---│ └── 06_hyperparameter_tuning.ipynb # GridSearchCV tuning
---│── models/
---│ └── final_model.pkl # Best trained model
---│── ui/
---│ └── app.py # Streamlit UI
---│── deployment/
---│ └── ngrok_setup.txt # Instructions for tunneling
---│── results/
---│ └── evaluation_metrics.txt # Model evaluation metrics
---│── README.md
---│── requirements.txt
-==│── .gitignore
+
 
 
